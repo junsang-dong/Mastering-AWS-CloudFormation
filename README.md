@@ -16,3 +16,5 @@ Infrastructure-as-Code의 구현도구이자 방법
 ### AWS 클라우드포메이션 마스터 도움자료
 
 * 유튜브 실습 플레이리스트 https://www.youtube.com/playlist?list=PLeLcvrwLe186Ubc_TMjNAFQHawujq9uFO
+* 원서 상세정보 (팩트) https://www.packtpub.com/product/mastering-aws-cloudformation/9781789130935
+* 원서 상세정보 (아마존) https://www.amazon.com/Mastering-AWS-CloudFormation-infrastructure-effectively/dp/178913093X
